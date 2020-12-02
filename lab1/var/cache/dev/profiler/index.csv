@@ -1,0 +1,10 @@
+935f2f,::1,GET,https://localhost:8000/,1605169935,,404
+6f2336,::1,GET,https://localhost:8000/favicon.ico,1605169937,ba5e3a,404
+ba5e3a,::1,GET,https://localhost:8000/favicon.ico,1605169937,,404
+06a6e7,::1,GET,https://localhost:8000/,1605783218,,404
+ec17dc,::1,GET,https://localhost:8000/favicon.ico,1605783224,69d236,404
+69d236,::1,GET,https://localhost:8000/favicon.ico,1605783224,,404
+25c644,127.0.0.1,GET,http://127.0.0.1:8001/,1606064299,,404
+ebb142,127.0.0.1,GET,http://127.0.0.1:8001/favicon.ico,1606064304,d4769f,404
+d4769f,127.0.0.1,GET,http://127.0.0.1:8001/favicon.ico,1606064304,,404
+7b5769,127.0.0.1,GET,http://127.0.0.1:8000/,1606064464,,404
